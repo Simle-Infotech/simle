@@ -1,6 +1,6 @@
 # Website of Simle Infotech Private Limited
 
-(https://trello.com/b/m62hoORa/simle-website)[Link to Trello Cards]
+[https://trello.com/b/m62hoORa/simle-website](Link to Trello Cards)
 
 Currently Members
 1. Anup Adhikari
